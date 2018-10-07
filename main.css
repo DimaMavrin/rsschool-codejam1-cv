@@ -6,8 +6,9 @@ body {
 .navigation {
 
 }
-h1 {
+h1, h2 {
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .photocard {
     width: 150px;
